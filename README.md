@@ -1,0 +1,5 @@
+# JobListingTracker
+
+
+# .venv\Scripts\activate
+# uvicorn main:app --reload --port 5000
